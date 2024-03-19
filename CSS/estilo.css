@@ -1,0 +1,49 @@
+body{
+    background-color: #000000;
+}
+#centro{
+    background-color: #1F1F1F;
+    width: 23%;
+    height: 560px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+#imagem{
+    width: 20%;
+    height: auto;
+    border-radius: 100px;
+    margin-top: 50px;
+}
+.collorfont{
+    color: white;
+}
+.verde{
+    color: #BFDC61;
+}
+.button{
+    background-color: #333333;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    border: none;
+    border-radius: 6px;
+    width: 75%;
+    height: 38px;
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 20px;
+}
+h4{
+    font-size: 12px;
+}
+h6{
+    font-size: 12px;
+    font-weight: 520;
+    color: #F6F6F6;
+}
+
